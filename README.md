@@ -12,7 +12,7 @@
 ### Acknowledgement
 This project is built with a group of 10 students for a [Large Scale and Extreme Programming](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=CE320&level=6&period=AU&campus=CO&year=20) module with agile methodology. 
 
-I will not take the full credit of this work, and give credit to my team-mates as well:
+Team members include:
 - Bradley	bg18617@essex.ac.uk
 - Charles	ck18334@essex.ac.uk
 - Daniel	dc17654@essex.ac.uk
@@ -22,3 +22,4 @@ I will not take the full credit of this work, and give credit to my team-mates a
 - Ryan	rv17643@essex.ac.uk
 - Tianyu Dang	td20525@essex.ac.uk
 - Byron	bm18627@essex.ac.uk
+- And, myself

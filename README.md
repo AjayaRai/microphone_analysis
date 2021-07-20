@@ -13,13 +13,13 @@
 This project is built with a group of 10 students for a [Large Scale and Extreme Programming](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=CE320&level=6&period=AU&campus=CO&year=20) module with agile methodology. 
 
 Team members include:
-- Bradley	bg18617@essex.ac.uk
-- Charles	ck18334@essex.ac.uk
-- Daniel	dc17654@essex.ac.uk
-- Ionis	ik18649@essex.ac.uk
-- Jesvin	jj16928@essex.ac.uk
-- Hasan	ma17885@essex.ac.uk
-- Ryan	rv17643@essex.ac.uk
-- Tianyu Dang	td20525@essex.ac.uk
-- Byron	bm18627@essex.ac.uk
+- Bradley
+- Charles
+- Daniel
+- Ionis
+- Jesvin
+- Hasan
+- Ryan
+- Tianyu Dang	
+- Byron	
 - And, myself
